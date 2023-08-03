@@ -17,6 +17,8 @@ import org.junit.runner.RunWith
 class MyTestSuite {
 
     //    private lateinit var scenario: FragmentScenario<BriefFragment>
+    //    private lateinit var scenario: FragmentScenario<BriefFragment>
+    //    private lateinit var scenario: FragmentScenario<BriefFragment>
 //
 //    @Before
 //    fun setup() {
